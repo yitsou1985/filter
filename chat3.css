@@ -1,0 +1,22 @@
+
+
+button{
+    background-color:#f8f0fe;
+    border: none;
+    border-radius:50px;
+    text-decoration : none;
+    width:140px;
+    height:30px;
+    text-align: center; /* Alignement du texte */  
+    
+} 
+
+input{
+    background-color: #f8f0fe; /* Couleur de fond */
+    border: none; /* Pas de bordure */
+    color: rgb(211, 55, 55); /* Couleur du texte */
+    padding: 15px 30px; /* Espacement intérieur */
+    border-radius:50px;
+    text-align: center; /* Alignement du texte */ 
+     
+}
