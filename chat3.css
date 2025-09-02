@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 button{
@@ -20,3 +21,40 @@ input{
     text-align: center; /* Alignement du texte */ 
      
 }
+  .customBtn {
+    background: #9e62ad;      /* Couleur du bouton */
+    color: white;             /* Texte en blanc */
+    padding: 10px 20px;       /* Espacement intérieur */
+    border: none;             /* Pas de bordure */
+    border-radius: 8px;       /* Coins arrondis */
+    font-size: 16px;          /* Taille du texte */
+    font-family: Arial, sans-serif;
+    cursor: pointer;          /* Main au survol */
+    transition: background 0.3s ease;
+    display: inline-block;    /* Important pour que ça agisse comme bouton */
+    text-align: center;
+  }
+=======
+
+
+button{
+    background-color:#f8f0fe;
+    border: none;
+    border-radius:50px;
+    text-decoration : none;
+    width:140px;
+    height:30px;
+    text-align: center; /* Alignement du texte */  
+    
+} 
+
+input{
+    background-color: #f8f0fe; /* Couleur de fond */
+    border: none; /* Pas de bordure */
+    color: rgb(211, 55, 55); /* Couleur du texte */
+    padding: 15px 30px; /* Espacement intérieur */
+    border-radius:50px;
+    text-align: center; /* Alignement du texte */ 
+     
+}
+>>>>>>> 52e39782b1a20c54e158431a971951183c7f6582
